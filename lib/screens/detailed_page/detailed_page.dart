@@ -47,8 +47,8 @@ class DetailedPage extends StatelessWidget {
                                 alignment: Alignment.center,
                                 children: [
                                   Container(
-                                    width: screenWidth * 0.15,
-                                    height: screenWidth * 0.15,
+                                    width: screenWidth * 0.13,
+                                    height: screenWidth * 0.13,
                                     decoration: BoxDecoration(
                                         color: kBackgroundColor,
                                         borderRadius: BorderRadius.circular(10),
@@ -71,8 +71,8 @@ class DetailedPage extends StatelessWidget {
                                   alignment: Alignment.center,
                                   children: [
                                     Container(
-                                      width: screenWidth * 0.15,
-                                      height: screenWidth * 0.15,
+                                      width: screenWidth * 0.13,
+                                      height: screenWidth * 0.13,
                                       decoration: BoxDecoration(
                                           color: kBackgroundColor,
                                           borderRadius:
@@ -95,8 +95,8 @@ class DetailedPage extends StatelessWidget {
                                 alignment: Alignment.center,
                                 children: [
                                   Container(
-                                    width: screenWidth * 0.15,
-                                    height: screenWidth * 0.15,
+                                    width: screenWidth * 0.13,
+                                    height: screenWidth * 0.13,
                                     decoration: BoxDecoration(
                                         color: kBackgroundColor,
                                         borderRadius: BorderRadius.circular(10),
@@ -119,8 +119,8 @@ class DetailedPage extends StatelessWidget {
                                   alignment: Alignment.center,
                                   children: [
                                     Container(
-                                      width: screenWidth * 0.15,
-                                      height: screenWidth * 0.15,
+                                      width: screenWidth * 0.13,
+                                      height: screenWidth * 0.13,
                                       decoration: BoxDecoration(
                                         color: kBackgroundColor,
                                         borderRadius: BorderRadius.circular(10),
@@ -176,7 +176,7 @@ class DetailedPage extends StatelessWidget {
                             Text(
                               "Angelica",
                               style: TextStyle(
-                                fontSize: screenWidth * 0.1,
+                                fontSize: screenWidth * 0.08,
                                 color: kTextColor,
                               ),
                             ),
@@ -195,7 +195,7 @@ class DetailedPage extends StatelessWidget {
                         Text(
                           "Russia",
                           style: TextStyle(
-                            fontSize: screenWidth * 0.08,
+                            fontSize: screenWidth * 0.07,
                             color: kPrimaryColor,
                           ),
                         ),
